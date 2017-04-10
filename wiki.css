@@ -1,0 +1,36 @@
+body{
+	background: #225;
+	font-family: roboto;
+	color: white;
+}
+
+#box{
+	width: 50%;
+	margin: 100px 30%;
+	text-align: center;
+}
+
+.si{
+	background: white;
+	color: black;
+	padding: 20px;
+	margin: 10px;
+	text-align: left;
+}
+
+.si a{
+    color: black;
+}
+
+a{
+	text-decoration: none;
+	color: white;
+}
+
+.hoover:hover{
+	background: orange;
+}
+.hoover{
+	width: 10px;
+	background:white;
+}
